@@ -103,7 +103,7 @@ const CoachingSection = ({ onOpenModal }: CoachingSectionProps) => {
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-3xl mx-auto mb-12">
           {[
             { num: "500+", label: "Transformations" },
-            { num: "18+", label: "Years Experience" },
+            { num: "25+", label: "Years Experience" },
             { num: "100%", label: "Commitment" },
           ].map((s, i) => (
             <div key={i} className="glass-dark p-6 rounded text-center">

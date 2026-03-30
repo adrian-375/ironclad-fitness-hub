@@ -32,7 +32,7 @@ const FounderSection = () => {
             <div className="aspect-[3/4] overflow-hidden rounded border border-border">
               <img
                 src="/images/founder.jpeg"
-                alt="Coach Nihal — Founder of Elite Fitness"
+                alt="Ramesh Naidu — Founder of Elite Fitness"
                 loading="lazy"
                 className="w-full h-full object-cover"
               />
