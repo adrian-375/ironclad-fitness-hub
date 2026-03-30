@@ -34,7 +34,7 @@ const CoachingSection = ({ onOpenModal }: CoachingSectionProps) => {
           </h2>
           <div className="w-16 h-[2px] bg-primary mx-auto mb-6 glow-red" />
           <p className="text-muted-foreground font-body text-lg leading-relaxed max-w-2xl mx-auto">
-            Your goals. Your program. Your dedicated coach. Precision-engineered transformation built around your body, your schedule, and your ambition.
+            Your goals. Your program. Your dedicated coach. Precision-engineered transformation built around your body, your schedule, and your ambition. Train with Ramesh Naidu, our master trainer with 18+ years of proven expertise.
           </p>
         </div>
 
@@ -103,7 +103,7 @@ const CoachingSection = ({ onOpenModal }: CoachingSectionProps) => {
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-3xl mx-auto mb-12">
           {[
             { num: "500+", label: "Transformations" },
-            { num: "12+", label: "Years Experience" },
+            { num: "18+", label: "Years Experience" },
             { num: "100%", label: "Commitment" },
           ].map((s, i) => (
             <div key={i} className="glass-dark p-6 rounded text-center">
