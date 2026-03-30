@@ -32,7 +32,7 @@ const FounderSection = () => {
             <div className="aspect-[3/4] overflow-hidden rounded border border-border">
               <img
                 src="/images/founder.jpeg"
-                alt="Coach Nihal — Founder of Elite Fitness"
+                alt="Coach Ramesh — Founder of Elite Fitness"
                 loading="lazy"
                 className="w-full h-full object-cover"
               />
@@ -52,10 +52,10 @@ const FounderSection = () => {
             <h3 className="font-heading text-3xl font-bold text-foreground mb-2">COACH NIHAL</h3>
             <p className="text-primary font-heading text-lg mb-6">Founder & Head Coach</p>
             <p className="text-muted-foreground font-body text-base leading-relaxed mb-4">
-              Coach Nihal is the founder of Elite Fitness, bringing over 20 years of hands-on experience in the fitness industry. Throughout his career, he has successfully guided more than 500 individuals through transformative fitness journeys, earning a reputation for delivering consistent, results-driven outcomes.
+              Coach Ramesh is the founder of Elite Fitness, bringing over 20 years of hands-on experience in the fitness industry. Throughout his career, he has successfully guided more than 500 individuals through transformative fitness journeys, earning a reputation for delivering consistent, results-driven outcomes.
             </p>
             <p className="text-muted-foreground font-body text-base leading-relaxed mb-4">
-              A certified personal trainer, nutrition consultant, and supplement specialist, Coach Nihal combines scientific knowledge with practical expertise to create personalized fitness solutions. His approach goes beyond conventional training — focusing on sustainable lifestyle changes, precise nutrition planning, and performance optimization.
+              A certified personal trainer, nutrition consultant, and supplement specialist, Coach Ramesh combines scientific knowledge with practical expertise to create personalized fitness solutions. His approach goes beyond conventional training — focusing on sustainable lifestyle changes, precise nutrition planning, and performance optimization.
             </p>
             <p className="text-muted-foreground font-body text-base leading-relaxed">
               Under his leadership, Elite Fitness has evolved into a trusted name for individuals seeking disciplined, structured, and effective transformation, backed by decades of proven credibility.
