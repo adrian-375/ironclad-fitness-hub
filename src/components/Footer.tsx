@@ -49,10 +49,15 @@ const Footer = () => {
                 title="Elite Fitness Bangalore Location"
               />
             </div>
-            <p className="text-muted-foreground text-xs font-body mt-3 leading-relaxed">
-              #31, K.P.J Arcade, H.M Road, Sakkama Layout,<br />
+            <a 
+              href="https://www.google.com/maps/place/Elite+Fitness/@13.011281,77.6227275,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae16e3dc986341:0x79e32c0bb05ed04c!8m2!3d13.0112758!4d77.6253024!16s%2Fg%2F1tj7zdqz?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="text-muted-foreground hover:text-primary text-xs font-body mt-3 leading-relaxed transition-colors inline-block"
+            >
+              📍 #31, K.P.J Arcade, H.M Road, Sakkama Layout,<br />
               Lingarajpuram, Bangalore - 560084
-            </p>
+            </a>
           </div>
 
           <div>
