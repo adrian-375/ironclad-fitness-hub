@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "/ironclad-fitness-hub", // or your repo name if not root
+  base: "/", // or your repo name if not root
   server: {
     host: "::",
     port: 8080,
